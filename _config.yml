@@ -13,7 +13,7 @@ description: 에니 게임 덕질 하시는 분들이 모이는 곳 입니다.
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/TurboCE/agdg.github.io/master/images/avatar.png
+avatar: https://raw.githubusercontent.com/neko-agdg/neko-agdg.github.io/master/images/avatar.png
 
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
@@ -39,7 +39,7 @@ footer-links:
   email: 
   facebook:
   flickr:
-  github: TurboCE/agdg.github.io
+  github: 
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -51,7 +51,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
-footer-text: © 2017 Kiko Now
+footer-text: © 2019 Kiko now
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
