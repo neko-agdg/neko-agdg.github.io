@@ -40,5 +40,5 @@ permalink: /about/
 
 [익명건의함]: https://forms.gle/psGCh66GouGVA6Nv6  
 [대나무숲]: https://forms.gle/nLU3wZtJYL538Ngh8
-
+운영안 : [link]({% post_url 2020-10-05-rule %})
 
